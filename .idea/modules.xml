@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/T1_verival_testes_unitarios.iml" filepath="$PROJECT_DIR$/T1_verival_testes_unitarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T2_UnitaryTests.iml" filepath="$PROJECT_DIR$/T2_UnitaryTests.iml" />
     </modules>
   </component>
 </project>
